@@ -39,7 +39,7 @@ public class F04_TieredIncomeTax {
         }
     }
 }
-
+ 
 /*
  * Time Complexity: O(n)
  * 對 n 筆收入執行一次稅額計算，整體時間複雜度為 O(n)。

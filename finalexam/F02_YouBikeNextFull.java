@@ -43,7 +43,7 @@ public class F02_YouBikeNextFull {
     }
 }
 
-/*
+/* 
  * Time Complexity: O(log n)
  * 用二分搜尋找出第一個晚於查詢時間的時刻，時間複雜度為 O(log n)。
  */

@@ -5,7 +5,7 @@ public class F12_TreeDiameter {
         int val;
         TreeNode left, right;
         TreeNode(int val) { this.val = val; }
-    }
+    } 
 
     static int maxDiameter = 0;
 

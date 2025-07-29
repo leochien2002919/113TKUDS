@@ -19,7 +19,7 @@ public class F05_LCMRecursive {
         else return gcdBySubtraction(a, b - a);
     }
 }
-
+ 
 /*
  * Time Complexity: O(max(a, b))
  * 輾轉相減法在最壞情況下每次只減 1，因此最多會呼叫 max(a, b) 次遞迴，時間複雜度為 O(max(a, b))。

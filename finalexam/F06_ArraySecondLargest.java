@@ -47,7 +47,7 @@ public class F06_ArraySecondLargest {
     }
 }
 
-/*
+/* 
  * Time Complexity: O(n)
  * 整個陣列透過分治法拆解與合併，每個元素只會參與一次，總共進行 n-1 次，整體時間複雜度為 O(n)。
  */

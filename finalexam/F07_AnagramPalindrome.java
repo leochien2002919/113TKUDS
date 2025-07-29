@@ -20,7 +20,7 @@ public class F07_AnagramPalindrome {
         } else {
             System.out.println("Impossible");
         }
-    }
+    } 
 
     public static void countLetters(String s, int index, int[] freq) {
         if (index == s.length()) return;

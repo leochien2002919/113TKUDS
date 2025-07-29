@@ -42,7 +42,7 @@ public class F03_ConvenienceHotItems {
     }
 }
 
-/*
+/* 
  * Time Complexity: O(n^2)
  * 插入排序在完全反向下需要 O(n^2) 次比較。
  */
